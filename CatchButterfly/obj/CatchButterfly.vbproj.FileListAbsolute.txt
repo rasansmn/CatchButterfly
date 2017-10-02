@@ -1,0 +1,11 @@
+G:\VB Projects\CatchButterfly_by_Rasan\CatchButterfly\obj\Debug\CatchButterfly.exe
+G:\VB Projects\CatchButterfly_by_Rasan\CatchButterfly\obj\Debug\CatchButterfly.xml
+G:\VB Projects\CatchButterfly_by_Rasan\CatchButterfly\obj\Debug\CatchButterfly.pdb
+G:\VB Projects\CatchButterfly_by_Rasan\CatchButterfly\bin\Debug\CatchButterfly.exe
+G:\VB Projects\CatchButterfly_by_Rasan\CatchButterfly\bin\Debug\CatchButterfly.pdb
+G:\VB Projects\CatchButterfly_by_Rasan\CatchButterfly\bin\Debug\CatchButterfly.xml
+G:\VB Projects\CatchButterfly_by_Rasan\CatchButterfly\obj\Debug\ResolveAssemblyReference.cache
+G:\VB Projects\CatchButterfly_by_Rasan\CatchButterfly\obj\Debug\WindowsApplication1.frmMain.resources
+G:\VB Projects\CatchButterfly_by_Rasan\CatchButterfly\obj\Debug\WindowsApplication1.frmHelp.resources
+G:\VB Projects\CatchButterfly_by_Rasan\CatchButterfly\obj\Debug\WindowsApplication1.Resources.resources
+G:\VB Projects\CatchButterfly_by_Rasan\CatchButterfly\obj\Debug\CatchButterfly.vbproj.GenerateResource.Cache

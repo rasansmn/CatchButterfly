@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\WindowsApplication1.Resources.resources
+bin\Debug\CatchButterfly.exe
+bin\Debug\CatchButterfly.pdb
+bin\Debug\CatchButterfly.xml
+obj\Debug\CatchButterfly.vbproj.GenerateResource.Cache
+obj\Debug\CatchButterfly.exe
+obj\Debug\CatchButterfly.xml
+obj\Debug\CatchButterfly.pdb
+obj\Debug\WindowsApplication1.frmHelp.resources
+obj\Debug\WindowsApplication1.frmMain.resources
